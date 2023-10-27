@@ -1,7 +1,7 @@
 import {
   ShellyPlus2Pm,
   ShellyPlus2PmRev1,
-} from 'shellies-ng';
+} from 'shellies-ng-infister';
 
 import { DeviceDelegate } from './base';
 
