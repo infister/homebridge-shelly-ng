@@ -3,7 +3,7 @@ import {
   Cover,
   Switch,
   SwitchEnergyCounterAttributes,
-} from 'shellies-ng';
+} from 'shellies-ng-infister';
 
 import { Ability, ServiceClass } from './base';
 
