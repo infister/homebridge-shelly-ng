@@ -1,7 +1,7 @@
 {
-  "name": "homebridge-shelly-ng",
+  "name": "homebridge-shelly-ng-infister",
   "version": "1.6.0",
-  "description": "Homebridge plugin for the next generation of Shelly devices",
+  "description": "Homebridge plugin for the next generation of Shelly devices (changes by infister)",
   "main": "dist/index.js",
   "scripts": {
     "build": "rimraf ./dist && tsc",
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alexryd/homebridge-shelly-ng.git"
+    "url": "git+https://github.com/infister/homebridge-shelly-ng.git"
   },
   "keywords": [
     "homebridge",
@@ -26,9 +26,9 @@
   "author": "Alexander Rydén",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/alexryd/homebridge-shelly-ng/issues"
+    "url": "https://github.com/infister/homebridge-shelly-ng/issues"
   },
-  "homepage": "https://github.com/alexryd/homebridge-shelly-ng#readme",
+  "homepage": "https://github.com/infister/homebridge-shelly-ng#readme",
   "funding": {
     "type": "kofi",
     "url": "https://ko-fi.com/alexryd"
@@ -46,6 +46,6 @@
     "typescript": "^4.7.4"
   },
   "dependencies": {
-    "shellies-ng": "^1.5.1"
+    "shellies-ng-infister": "^1.5.1"
   }
 }
