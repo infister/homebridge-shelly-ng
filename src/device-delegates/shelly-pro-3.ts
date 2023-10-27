@@ -1,4 +1,4 @@
-import { ShellyPro3 } from 'shellies-ng';
+import { ShellyPro3 } from 'shellies-ng-infister';
 
 import { DeviceDelegate } from './base';
 
