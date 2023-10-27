@@ -1,4 +1,4 @@
-import { Device } from 'shellies-ng';
+import { Device } from 'shellies-ng-infister';
 
 import { Ability, ServiceClass } from './base';
 
