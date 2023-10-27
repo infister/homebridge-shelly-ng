@@ -1,6 +1,6 @@
 {
   "name": "homebridge-shelly-ng-infister",
-  "version": "1.6.0",
+  "version": "1.6.1",
   "description": "Homebridge plugin for the next generation of Shelly devices (changes by infister)",
   "main": "dist/index.js",
   "scripts": {
