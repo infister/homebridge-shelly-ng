@@ -1,4 +1,4 @@
-import { Input } from 'shellies-ng';
+import { Input } from 'shellies-ng-infister';
 
 import { Ability, ServiceClass } from './base';
 
