@@ -2,7 +2,7 @@ import {
   ShellyPlus1Pm,
   ShellyPlus1PmUl,
   ShellyPlus1PmMini,
-} from 'shellies-ng';
+} from 'shellies-ng-infister';
 
 import { DeviceDelegate } from './base';
 
